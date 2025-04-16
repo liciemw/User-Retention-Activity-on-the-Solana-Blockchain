@@ -1,4 +1,4 @@
-# 📊 Solana Blockchain Activity & Retention Analysis 
+#  Solana Blockchain Activity & Retention Analysis 
 
 This project analyzes **user behavior**, **developer activity**, and **program interactions** on the Solana blockchain using data queried from [Flipside Crypto](https://flipsidecrypto.xyz/).
 
@@ -67,7 +67,7 @@ Kaleido is already satisfied if you see: Requirement already satisfied: kaleido 
 bash
 Copy
 Edit
-├── data/                         # processed datasets
+├── Flipside dataset/                         # processed datasets
 ├── weekly_new_users.png
 ├── weekly_unique_programs.png
 ├── weekly_unique_vs_new_users.png
@@ -77,6 +77,6 @@ Edit
  Author
 Ally M
 Blockchain Research | Data Scientist 
-GitHub: [@liciemw](https://github.com/liciemw)
+GitHub: [@liciemw][(https://github.com/liciemw)]
 
 
