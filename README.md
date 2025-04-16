@@ -1,6 +1,6 @@
 # 📊 Solana Blockchain Activity & Retention Analysis 
 
-This project analyzes **user behavior**, **developer activity**, and **program interactions** on the Solana blockchain for the year 2024 using data queried from [Flipside Crypto](https://flipsidecrypto.xyz/).
+This project analyzes **user behavior**, **developer activity**, and **program interactions** on the Solana blockchain using data queried from [Flipside Crypto](https://flipsidecrypto.xyz/).
 
 It explores:
 - New user onboarding trends
@@ -10,7 +10,7 @@ It explores:
 
 ---
 
-## 📂 Datasets Overview & Cleaning
+##  Datasets Overview & Cleaning
 
 Each dataset was cleaned to remove duplicate entries and ensure consistency across weekly and daily logs. The cleaned datasets include:
 
@@ -47,7 +47,7 @@ Filtered to the first 30 days after a user's first transaction.
 
 
 
-🛠 Setup & Environment
+ Setup & Environment
 Ensure you have the following installed:
 
 bash
@@ -63,7 +63,7 @@ conda activate your-env
 pip install kaleido
 Kaleido is already satisfied if you see: Requirement already satisfied: kaleido in ...
 
-📁 Project Structure
+ Project Structure
 bash
 Copy
 Edit
@@ -74,10 +74,11 @@ Edit
 ├── number_of_days_active.png
 ├── U-R-A-O-S-B.ipynb    # Main analysis notebook
 └── README.md
-👩‍💻 Author
+ Author
 Alice M
 Blockchain Research | Data Scientist 
 GitHub: @liciemw
 
-📚 Data Source
+ Data Source
 All insights are powered by data from [Flipside Crypto](https://flipsidecrypto.xyz/).
+
