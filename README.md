@@ -67,7 +67,7 @@ Kaleido is already satisfied if you see: Requirement already satisfied: kaleido 
 bash
 Copy
 Edit
-├── data/                         # CSVs / processed datasets
+├── data/                         # processed datasets
 ├── weekly_new_users.png
 ├── weekly_unique_programs.png
 ├── weekly_unique_vs_new_users.png
@@ -75,10 +75,8 @@ Edit
 ├── U-R-A-O-S-B.ipynb    # Main analysis notebook
 └── README.md
  Author
-Alice M
+Ally M
 Blockchain Research | Data Scientist 
-GitHub: @liciemw
+GitHub: [@liciemw](https://github.com/liciemw)
 
- Data Source
-All insights are powered by data from [Flipside Crypto](https://flipsidecrypto.xyz/).
 
