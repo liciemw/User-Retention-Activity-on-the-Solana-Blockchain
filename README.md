@@ -1,6 +1,6 @@
 #  Solana Blockchain Activity & Retention Analysis 
 
-This project analyzes **user behavior**, **developer activity**, and **program interactions** on the Solana blockchain using data queried from [Flipside Crypto]([https://flipsidecrypto.xyz/licie/queries]).
+This project analyzes **user behavior**, **developer activity**, and **program interactions** on the Solana blockchain using data queried from [Flipside Crypto](https://flipsidecrypto.xyz/licie/queries).
 
 It explores:
 - New user onboarding trends
